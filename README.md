@@ -1,2 +1,2 @@
 # K-means-Clustering
-K Means on mall-customers Dataset
+K Means on Mall-Customers Dataset
